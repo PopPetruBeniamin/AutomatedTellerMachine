@@ -1,6 +1,3 @@
-//
-// Created by Usuario on 30/04/2024.
-//
 #include <iostream>
 #include <cassert>
 #include "TestDynamicVector.h"
