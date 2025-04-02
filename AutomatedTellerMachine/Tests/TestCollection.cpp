@@ -1,7 +1,3 @@
-//
-// Created by Usuario on 30/04/2024.
-//
-
 #include <cassert>
 #include "TestCollection.h"
 #include "../Collection.h"
